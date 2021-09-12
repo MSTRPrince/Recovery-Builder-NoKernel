@@ -18,8 +18,7 @@ env:
   MANIFEST_BRANCH: twrp-10.0
   DEVICE: X682C
   DT_LINK: https://gitlab.com/MSTRPrince/device_infinix_x682c.git -b fox_10.0
-
-  DT_PATH: device/infinix/x682c
+  DT_PATH: device/infinix/X682C
   TARGET: recoveryimage
   TZ: Asia/Karachi
 
