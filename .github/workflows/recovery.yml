@@ -70,7 +70,7 @@ jobs:
              
        - uses: actions/upload-artifact@v2
          with:
-          name: OrangeFox-R11.3-Stable-x682c.zip
+          name: OrangeFox-R11.4-Stable-x682c.zip
           path: work/out/target/product/*/OrangeFox*.zip
 
        - uses: actions/upload-artifact@v2
